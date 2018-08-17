@@ -47,7 +47,6 @@
   <remove-project name="platform/external/f2fs-tools" />
   <remove-project name="platform/external/flac" />
   <remove-project name="platform/external/guava" />
-  <remove-project name="platform/external/jhead" />
   <remove-project name="platform/external/libexif" />
   <remove-project name="platform/external/libnfc-nci" />
   <remove-project name="platform/external/libpng" />

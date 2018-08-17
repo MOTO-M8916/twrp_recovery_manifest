@@ -123,7 +123,6 @@
   <remove-project path="external/libdaemon" name="platform/external/libdaemon" />
   <remove-project path="external/libevent" name="platform/external/libevent" />
   <remove-project name="android_external_libexif" />
-  <remove-project path="external/libgdx" name="platform/external/libgdx" groups="pdk" />
   <remove-project path="external/libgsm" name="platform/external/libgsm" groups="pdk" />
   <remove-project path="external/libhevc" name="platform/external/libhevc" groups="pdk-fs" />
   <remove-project path="external/liblzf" name="platform/external/liblzf" groups="pdk" />
